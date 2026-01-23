@@ -1,88 +1,37 @@
-# Maximilian Hindermann
+## Welcome to GitHub Pages
 
-**Research Navigator** | University of Basel
-[ORCID](https://orcid.org/0000-0002-9337-4655) | [GitHub](https://github.com/mhindermann/) | [RISE Profile](https://rise.unibas.ch/de/team/maximilian-hindermann/)
+You can use the [editor on GitHub](https://github.com/MHindermann/mhindermann.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
----
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## About Me
+### Markdown
 
-I am a Research Navigator at the University of Basel's [RISE (Research Infrastructure & Support)](https://rise.unibas.ch/) department, where I support researchers with infrastructure, data management, and information resources. My interdisciplinary background spans philosophy, information science, and knowledge organization systems.
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-## Current Position
+```markdown
+Syntax highlighted code block
 
-**Research Navigator**
-University of Basel, RISE (Research Infrastructure & Support)
-*September 2021 - Present*
+# Header 1
+## Header 2
+### Header 3
 
-## Education
+- Bulleted
+- List
 
-- **MAS in Library and Information Science** (2019-2021)
-  University of Zurich
+1. Numbered
+2. List
 
-- **PhD in Philosophy** (2012-2017)
-  University of Geneva
-  Dissertation: *Biological modalities*
+**Bold** and _Italic_ and `Code` text
 
-- **60-EC Certificate in Logic, Language and Computation** (2011-2012)
-  University of Amsterdam
+[Link](url) and ![Image](src)
+```
 
-- **Master of Letters in Philosophy** (2010-2011)
-  University of St Andrews
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-- **BA in Philosophy and History** (2006-2010)
-  University of Basel
+### Jekyll Themes
 
-## Research Interests
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MHindermann/mhindermann.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-- Biological modalities and modal logic
-- Philosophy of biology
-- Knowledge organization systems
-- Data provenance in handwritten text recognition
-- AI benchmarking
+### Support or Contact
 
-## Selected Publications & Projects
-
-### Journal Articles
-- "Two arguments for the etiological theory over the modal theory of biological function" (2017)
-
-### Books & Chapters
-- "BARTOC FAST" (2020) - Book chapter
-- *Biological modalities* (2017) - Doctoral dissertation
-
-### Software
-- [bartocsuggest](https://github.com/mhindermann/) (2020) - Software project
-
-### Recent Work
-- Data provenance in handwritten text recognition (2022-2024)
-- AI benchmarking research (2022-2024)
-
-## Professional Experience
-
-**Scientific Librarian**
-University of Basel (2019-2021)
-
-**Assistant**
-University of Geneva, Philosophy Department (2016-2017)
-
-**Research Assistant**
-University of Geneva (2012-2015)
-
-**Teaching Assistant**
-University of Basel (2008-2010)
-
-## Service & Leadership
-
-- **Editorial Committee**, Dialectica journal (2012-2017)
-- **President**, Swiss Philosophy Olympiad (2012-2015)
-- **Scholar**, Swiss Study Foundation (2007-2016)
-
-## Funding
-
-**Swiss National Science Foundation (SNF)**
-Grant for "A modal logic for biological modalities and its applications" (2015-2016)
-
----
-
-*Location: Switzerland*
-*ORCID: [0000-0002-9337-4655](https://orcid.org/0000-0002-9337-4655)*
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
